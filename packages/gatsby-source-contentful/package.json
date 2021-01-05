@@ -15,7 +15,7 @@
   "author": "Marcus Ericsson <mericsson@gmail.com> (mericsson.com)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "babel-runtime": "^6.26.0",
     "base64-img": "^1.0.3",
     "bluebird": "^3.5.0",
